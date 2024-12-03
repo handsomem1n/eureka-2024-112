@@ -110,11 +110,11 @@
 - 학교에서 열리는 다양한 행사에 참여하며, 팀원들과 목표를 이뤄나가겠습니다. ✨  
 
 # 사진 모음
-![IMG_9562](https://github.com/user-attachments/assets/33bae363-d237-44eb-b5c2-990c23d3e461)
-![IMG_9641](https://github.com/user-attachments/assets/a48c357b-04c7-4f2e-9846-992ffe096c64)![IMG_9450](https://github.com/user-attachments/assets/78c394b7-07a8-4e94-a8fd-7503465a7c8c)
-![IMG_9454](https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4)
-![IMG_9455](https://github.com/user-attachments/assets/f40db08d-5db0-4962-b6ae-ce87b506d652)
-![IMG_9557](https://github.com/user-attachments/assets/8494f107-1a6d-4c6c-b655-50782764387f)
-
-![IMG_9744](https://github.com/user-attachments/assets/75909eb1-27ec-4065-9354-8a204fc56ed4)
-![IMG_9756](https://github.com/user-attachments/assets/81a318d3-ecf2-4358-9377-e474d2bf3595)
+<img src="https://github.com/user-attachments/assets/33bae363-d237-44eb-b5c2-990c23d3e461" width="500" height="500" />
+<img src="https://github.com/user-attachments/assets/a48c357b-04c7-4f2e-9846-992ffe096c64" width="500" height="500" />
+<img src="https://github.com/user-attachments/assets/78c394b7-07a8-4e94-a8fd-7503465a7c8c" width="500" height="500" />
+<img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="500" height="500" />
+<img src="https://github.com/user-attachments/assets/f40db08d-5db0-4962-b6ae-ce87b506d652" width="500" height="500" />
+<img src="https://github.com/user-attachments/assets/8494f107-1a6d-4c6c-b655-50782764387f" width="500" height="500" />
+<img src="https://github.com/user-attachments/assets/75909eb1-27ec-4065-9354-8a204fc56ed4" width="500" height="500" />
+<img src="https://github.com/user-attachments/assets/81a318d3-ecf2-4358-9377-e474d2bf3595" width="500" height="500" />
