@@ -114,52 +114,53 @@ Slogan : 같이 하면, 가치있다!
 
 
 ### 활동 사진 모음 📸
+
 ---
 
 ## 1. **사진 제목: 정통처 탐방**
-![정통처 탐방](https://github.com/user-attachments/assets/33bae363-d237-44eb-b5c2-990c23d3e461)
+<img src="https://github.com/user-attachments/assets/33bae363-d237-44eb-b5c2-990c23d3e461" width="300" height="200" />
 *정통처를 탐방해보았습니다! 새로운 경험으로 가득한 시간이었어요.* 😊
 
 ---
 
 ## 2. **사진 제목: 최은미 교수님과의 인터뷰**
-![최은미 교수님과의 인터뷰](https://github.com/user-attachments/assets/a48c357b-04c7-4f2e-9846-992ffe096c64)
+<img src="https://github.com/user-attachments/assets/a48c357b-04c7-4f2e-9846-992ffe096c64" width="300" height="200" />
 *최은미 교수님과 진솔한 이야기를 나누는 모습이에요. 교수님의 조언이 큰 도움이 되었어요!* 🙏
 
 ---
 
 ## 3. **사진 제목: 박수현 교수님과의 인터뷰**
-![박수현 교수님과의 인터뷰](https://github.com/user-attachments/assets/78c394b7-07a8-4e94-a8fd-7503465a7c8c)
+<img src="https://github.com/user-attachments/assets/78c394b7-07a8-4e94-a8fd-7503465a7c8c" width="300" height="200" />
 *박수현 교수님과의 인터뷰 현장! 따뜻한 말씀과 격려에 감사드려요.* 🌟
 
 ---
 
 ## 4. **사진 제목: 서버실 탐방**
-![서버실 탐방](https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4)
+<img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
 *서버실 탐방 중! 기술의 중심에 서 있는 느낌이에요.* 💻
 
 ---
 
 ## 5. **사진 제목: 윤상민 교수님과의 인터뷰**
-![윤상민 교수님과의 인터뷰](https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4)
+<img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
 *윤상민 교수님과 인터뷰를 진행했습니다. 의미 있는 대화였어요!* 🙌
 
 ---
 
 ## 6. **사진 제목: 대학원생과의 인터뷰**
-![대학원생과의 인터뷰](https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4)
+<img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
 *대학원생 선배님들과의 인터뷰를 통해 많은 인사이트를 얻었어요!* 🎓
 
 ---
 
 ## 7. **사진 제목: 행정실 탐방**
-![행정실 탐방](https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4)
+<img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
 *행정실 탐방을 통해 학교 시스템을 이해하는 좋은 기회였어요.* 🏢
 
 ---
 
 ## 8. **사진 제목: 대학원 소개 참여**
-![대학원 소개 참여](https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4)
+<img src="https://github.com/user-attachments/assets/2058dd54-c7c0-4dfd-be6e-70b623b452f4" width="300" height="200" />
 *대학원 소개 행사에 참여하며 진학 계획을 구체화해 보았어요!* ✨
 
 ---
@@ -167,5 +168,3 @@ Slogan : 같이 하면, 가치있다!
 ### 이번 활동을 통해 얻은 점
 - **다양한 탐방과 인터뷰를 통해 학교의 새로운 면을 발견**하게 되었어요.  
 - 앞으로의 커리어 계획을 더 구체화할 수 있는 좋은 시간이었습니다. 😊  
-
-width="500" height="500"
